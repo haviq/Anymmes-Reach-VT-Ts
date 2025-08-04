@@ -92,6 +92,12 @@ anymmes-platform
      ```
      npm run start
      ```
+PICTURE 
+
+<img width="1711" height="961" alt="image" src="https://github.com/user-attachments/assets/3f296a8f-ae1c-46ea-9b7f-963a7d063ddf" />
+<img width="746" height="742" alt="image" src="https://github.com/user-attachments/assets/d6bd6ea1-b0dc-47ad-b350-ae130afd9a29" />
+<img width="1381" height="786" alt="image" src="https://github.com/user-attachments/assets/2641a96b-b0a2-466a-85b1-d6b8f77bec9d" />
+
 
 ## Contributing
 
